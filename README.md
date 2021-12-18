@@ -1,8 +1,8 @@
 # Horiseon_Refactor
-
+URL: https://aaburzak.github.io/Horiseon_Refactor/
 Refactored existing code to properly format and eliminate redundancy per the following acceptance criteria.
 
-## Acceptance Criteria
+## Acceptance Criteria 
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -16,3 +16,5 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+
